@@ -25,5 +25,5 @@ However, the prior study trained the dataset with a supervised machine learning 
 
 ## The team
 
-https://github.com/Alfaxad.png
+https://avatars.githubusercontent.com/<username>
 
