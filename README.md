@@ -25,6 +25,5 @@ However, the prior study trained the dataset with a supervised machine learning 
 
 ## The team
 
-https://avatars.githubusercontent.com/<username>
 
-<td align="center"><a href="https://github.com/viacovella"><img src="https://github.com/Alfaxad.png" width="100px;" alt=""/><br /><sub><b>Vittorio Iacovella</b></sub></a><br /><a href="https://github.com/physiopy/phys2bids/commits?author=viacovella" title="Code">💻</a></td>
+<td align="center"><a href="https://github.com/Alfaxad"><img src="https://github.com/Alfaxad.png" width="100px;" alt=""/><br /><sub><b>Vittorio Iacovella</b></sub></a><br /><a href="https://github.com/physiopy/phys2bids/commits?author=viacovella" title="Code">💻</a></td>
