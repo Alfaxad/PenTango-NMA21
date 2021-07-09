@@ -2,10 +2,34 @@
 
 ## About:
 
-
+We are interested in investigating the hierarchical structure of processing object categorization in the human brain. More specifically we hope to investigate the correlation between RDMs from Cichy et al.,2014 neuroimaging dataset with other attributes of the images they presented to subjects. 
 
 ## Question:
 
+Primary question: how do other features/attributes of the images correlate with these RDMs in different brain regions(IT, V1)? 
+    -semantics 
+        -using pre-trained models to automatically label these images (AP, SE, PM)
+        -word2vec to calucalte semantic similarities of these images (HL,AP, AE)
+    -sentiment 
+        -new data collection and have subjects rate the sentiment of images: postivie to negative
+    -visual attributes (HL,
+        -pixel analysis: edges, orientations, color 
+        -regresss out the pixel similarities (fit a linear model of multiple RDMS on the target RDM)
+                -fit a RDM of pixels 
+                -
+     
+        
+
+     
+
+##Decision point 
+
+1. determine the scale for sentiment: gradient, what would be the numeric value assigned to each one? (VALENCE/AROUSAL) 
+
+
+##Action Items:
+1. Nic
+1. dec
 
 
 ## Abstract:
