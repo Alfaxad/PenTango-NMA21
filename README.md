@@ -17,19 +17,21 @@ We are interested in investigating the hierarchical structure of processing obje
     1. visual attributes (HL,)
         1. pixel analysis: edges, orientations, color 
         1. regresss out the pixel similarities (fit a linear model of multiple RDMS on the target RDM)
-                 1. fit a RDM of pixels 
-                 1. 
+                 
+                   
+                   -  fit a RDM of pixels 
+                
      
         
 
      
 
-##Decision point 
+**Decision point**
 
 1. determine the scale for sentiment: gradient, what would be the numeric value assigned to each one? (VALENCE/AROUSAL) 
 
 
-##Action Items:
+**Action Items:**
 1. Nic
 1. dec
 
