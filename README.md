@@ -6,16 +6,18 @@ We are interested in investigating the hierarchical structure of processing obje
 
 ## Question:
 
-Primary question: how do other features/attributes of the images correlate with these RDMs in different brain regions(IT, V1)? 
-    *semantics 
-        *using pre-trained models to automatically label these images (AP, SE, PM)
-        *word2vec to calucalte semantic similarities of these images (HL,AP, AE)
-    *sentiment 
-        *new data collection and have subjects rate the sentiment of images: postivie to negative
-    *visual attributes (HL,
-        *pixel analysis: edges, orientations, color 
-        *regresss out the pixel similarities (fit a linear model of multiple RDMS on the target RDM)
-                *fit a RDM of pixels 
+
+**Primary question: how do other features/attributes of the images correlate with these RDMs in different brain regions(IT, V1)?**
+
+1. semantics 
+   1. using pre-trained models to automatically label these images (AP, SE, PM)
+        1. word2vec to calucalte semantic similarities of these images (HL,AP, AE)
+   1. sentiment 
+        1. new data collection and have subjects rate the sentiment of images: postivie to negative
+    1. visual attributes (HL,)
+        1. pixel analysis: edges, orientations, color 
+        1. regresss out the pixel similarities (fit a linear model of multiple RDMS on the target RDM)
+                1. fit a RDM of pixels 
                 -
      
         
