@@ -17,8 +17,8 @@ We are interested in investigating the hierarchical structure of processing obje
     1. visual attributes (HL,)
         1. pixel analysis: edges, orientations, color 
         1. regresss out the pixel similarities (fit a linear model of multiple RDMS on the target RDM)
-                1. fit a RDM of pixels 
-                -
+                 1. fit a RDM of pixels 
+                 1. 
      
         
 
