@@ -4,36 +4,30 @@
 
 We are interested in investigating the hierarchical structure of processing object categorization in the human brain. More specifically we hope to investigate the correlation between RDMs from Cichy et al.,2014 neuroimaging dataset with other attributes of the images they presented to subjects. 
 
-## Question:
+## Hypotheses:
 
 
-**Primary question: how do other features/attributes of the images correlate with these RDMs in different brain regions(IT, V1)?**
+**Primary question: how do other features/attributes of these 92 images correlate with their RDMs in different brain regions(IT, V1)? We are interested in three other aspects of the images: **
 
-1. semantics 
-   1. using pre-trained models to automatically label these images (AP, SE, PM)
-        1. word2vec to calucalte semantic similarities of these images (HL,AP, AE)
-   1. sentiment 
-        1. new data collection and have subjects rate the sentiment of images: postivie to negative
-    1. visual attributes (HL,)
-        1. pixel analysis: edges, orientations, color 
-        1. regresss out the pixel similarities (fit a linear model of multiple RDMS on the target RDM)
+
+1. Semantics  
+    1. using pre-trained models to automatically label these images (AP, SE, PM)
+    2. word2vec to calucalte semantic similarities of these images (HL,AP, AE)
+2. Sentiment 
+    1. new data collection and have subjects rate the sentiment of images: postivie to negative and novelty of the images (HL, SE)
+    2. calculate the sentiment and novelty of these images in R. and export the final results in csv. file (HL)
+    3. compute correlation/run prediction models 
+3. Visual attributes (HL
+   1. pixel analysis: edges, orientations, color
+   2. compute a RDM of pixels for each image 
+   3. regresss out the pixel similarities (fit a linear model of multiple RDMS on the target RDM)
                  
                    
-                   -  fit a RDM of pixels 
                 
-     
-        
-
-     
-
 **Decision point**
 
 1. determine the scale for sentiment: gradient, what would be the numeric value assigned to each one? (VALENCE/AROUSAL) 
 
-
-**Action Items:**
-1. Nic
-1. dec
 
 
 ## Abstract:
