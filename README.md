@@ -26,10 +26,21 @@ We are interested in investigating the hierarchical structure of processing obje
                 
 **Decision point**
 
-1. determine the scale for sentiment: gradient, what would be the numeric value assigned to each one? (VALENCE/AROUSAL) 
+1. determine the scale for sentiment: gradient, what would be the numeric value assigned to each one? (VALENCE/AROUSAL); do we calcualte the average score, or the median, or sum? do we have each indivdual rate all 92 or a subset of it?  using 7 point or 5 point likert scale? 
+2. 
 
+## Goals to hit
+Monday (July 12th) 
+1. HL fix the bugs in the stimuli and look into literature how to calculate 
+2. Analysis plans (: 
+    1. how is the sentiment data processing/analysis (HL,SE)
+4. PM & AP look into featrue extraction and identify featues/attributes that would be meaningful to implenet and calculate 
+5. 
 
-
+ 
+ 
+ 
+ 
 ## Abstract:
 
 
