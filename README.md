@@ -63,3 +63,8 @@ However, the prior study trained the dataset with a supervised machine learning 
     <td align="center"><a href="https://github.com/Alfaxad"><img src="https://github.com/Alfaxad.png" width="100px;" alt=""/><br /><sub><b>Alfaxad Eyembe</b></sub></a><br /><a href="https://github.com/physiopy/phys2bids/commits?author=viacovella" title="Code">💻</a></td>
 </tr>
 </table>
+
+### Minutes document 
+
+[Minutes meeting](https://docs.google.com/document/d/1GsBpHjl7nuiU9_HMjJqHEiLHDkE_u1DGq7H11_nFvM4/edit)
+
