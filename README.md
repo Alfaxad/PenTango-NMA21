@@ -17,7 +17,7 @@ We are interested in investigating the hierarchical structure of processing obje
     1. new data collection and have subjects rate the sentiment of images: postivie to negative and novelty of the images (HL, SE)
     2. calculate the sentiment and novelty of these images in R. and export the final results in csv. file (HL)
     3. compute correlation/run prediction models 
-3. Visual attributes (HL
+3. Visual attributes (HL)
    1. pixel analysis: edges, orientations, color
    2. compute a RDM of pixels for each image 
    3. regresss out the pixel similarities (fit a linear model of multiple RDMS on the target RDM)
