@@ -82,6 +82,12 @@ This is the RDM computed from the data collected for sentiment. As we observe no
 ![res1](https://user-images.githubusercontent.com/68440833/126869905-829a45a9-f1aa-4dc7-82a8-68667438ce9a.png)
 
 
+3. **Results - Familiarity.**
+
+People were also asked: how likely it is for you to see the content of this image in real life? People also rate the likelihood on a 5-point likert scale from rarely to certainly. 
+In this heatmap, we find such a delineation between categories of images, suggesting that familiarity might be an interesting dimension of these images.
+
+![res2](https://user-images.githubusercontent.com/68440833/126869919-ec2c304e-97ee-416a-be66-063c6f93cf6a.png)
 
 ## The team
 <table>
@@ -110,7 +116,7 @@ This is the RDM computed from the data collected for sentiment. As we observe no
 
 
 
-![res2](https://user-images.githubusercontent.com/68440833/126869919-ec2c304e-97ee-416a-be66-063c6f93cf6a.png)
+
 ![res3](https://user-images.githubusercontent.com/68440833/126869930-dfbc0417-8bb6-4696-ab23-2c01152ca901.png)
 ![res4](https://user-images.githubusercontent.com/68440833/126869936-e76175f8-2c0d-421a-a60e-05d7ccc7e7b7.png)
 ![res5](https://user-images.githubusercontent.com/68440833/126869943-21732fe9-55b8-4566-b3b9-d350c8da8456.png)
