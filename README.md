@@ -65,10 +65,18 @@ Then, we followed the approach outlined below to answer this question.
 
 We obtained results for visual-attributes, Sentiment-analysis, correlation & Multiple linear regression. The sesults are as outlined below:
 
-1. Results - Visual attributes.
+1. **Results - Visual attributes.**
 Here we present the RDMs computed for each feature of interest: 
    1. This slide shows the RDMs for each convolutional layers computed from the output of AlexNet
    2. The first layer represent lower level attributes such as edges, color and orientation, whereas later layers represent more complex features. 
+
+![archi](https://user-images.githubusercontent.com/68440833/126869865-42bc7de8-d1b2-47cc-b4d6-a263f3b5b8f2.png)
+
+
+2. **Results-Sentiments.**
+
+After viewing the image for 500ms,people were asked: how do you feel immediately about this image? People rate the sentiment from strongly negative to strongly positive on a 5-point likert scale. 
+This is the RDM computed from the data collected for sentiment. As we observe no clear delineation of this heatmap, sentiment response does not give good insight in distinguishing categories of these 92 images.
 
 
 ![res1](https://user-images.githubusercontent.com/68440833/126869905-829a45a9-f1aa-4dc7-82a8-68667438ce9a.png)
@@ -99,7 +107,7 @@ Here we present the RDMs computed for each feature of interest:
 ![prior](https://user-images.githubusercontent.com/68440833/126869797-b97c18d9-f061-43c5-82c1-1efae270b00e.png)
 
 
-![archi](https://user-images.githubusercontent.com/68440833/126869865-42bc7de8-d1b2-47cc-b4d6-a263f3b5b8f2.png)
+
 
 
 ![res2](https://user-images.githubusercontent.com/68440833/126869919-ec2c304e-97ee-416a-be66-063c6f93cf6a.png)
