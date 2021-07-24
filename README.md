@@ -9,6 +9,11 @@
 
 We are interested in investigating the hierarchical structure of processing object categorization in the human brain. More specifically we hope to investigate the correlation between RDMs from Cichy et al.,2014 neuroimaging dataset with other attributes of the images they presented to subjects. 
 
+![prior](https://user-images.githubusercontent.com/68440833/126869797-b97c18d9-f061-43c5-82c1-1efae270b00e.png)
+![dataset_des](https://user-images.githubusercontent.com/68440833/126869810-2c91cf0f-68d2-4bca-8eb5-0ece28f31a25.png)
+![intro](https://user-images.githubusercontent.com/68440833/126870166-adb705a2-66bd-4d8e-82f7-fba6cce16184.png)
+
+
 ## Hypotheses:
 
 
@@ -81,7 +86,7 @@ How do humans and other primates perceive daily objects of various features and 
 ### Minutes document 
 
 ![prior](https://user-images.githubusercontent.com/68440833/126869797-b97c18d9-f061-43c5-82c1-1efae270b00e.png)
-![dataset_des](https://user-images.githubusercontent.com/68440833/126869810-2c91cf0f-68d2-4bca-8eb5-0ece28f31a25.png)
+
 
 ![archi](https://user-images.githubusercontent.com/68440833/126869865-42bc7de8-d1b2-47cc-b4d6-a263f3b5b8f2.png)
 ![approach](https://user-images.githubusercontent.com/68440833/126869892-6089249c-e55e-4940-afd2-6f401ced1426.png)
