@@ -124,7 +124,7 @@ We selected a subset of features to compute multiple linear regression to predic
 ## Conclusion and Future Direction.
 
 
-
+![res7](https://user-images.githubusercontent.com/68440833/126876274-8577fad0-24e2-44da-9463-e329ce8df6c3.png)
 
 
 ## The team
@@ -145,8 +145,6 @@ We selected a subset of features to compute multiple linear regression to predic
     <td align="center"><a href="https://github.com/Alfaxad"><img src="https://github.com/Alfaxad.png" width="100px;" alt=""/><br /><sub><b>Alfaxad Eyembe</b></sub></a><br /><a href="https://github.com/physiopy/phys2bids/commits?author=viacovella" title="Code">💻</a></td>
 </tr>
 </table>
-
-### Minutes document 
 
 
 
