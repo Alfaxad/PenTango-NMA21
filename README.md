@@ -127,6 +127,16 @@ We selected a subset of features to compute multiple linear regression to predic
 ![res7](https://user-images.githubusercontent.com/68440833/126876274-8577fad0-24e2-44da-9463-e329ce8df6c3.png)
 
 
+## References.
+
+1. Cichy, R., Khosla, A., Pantazis, D. et al. Comparison of deep neural networks to spatio-temporal cortical dynamics of human visual object recognition reveals hierarchical correspondence. Sci Rep 6, 27755 (2016). https://doi.org/10.1038/srep27755
+2. Groen II, Greene MR, Baldassano C, Fei-Fei L, Beck DM, Baker CI. Distinct contributions of functional and deep neural network features to representational similarity of scenes in human brain and behavior. Elife. 2018 Mar 7;7:e32962. doi: 10.7554/eLife.32962. PMID: 29513219; PMCID: PMC5860866.
+3. Representational similarity analysis – connecting the branches of systems neuroscience. Kriegeskorte et al. Front. Syst. Neurosci., 2008
+Resolving human object recognition in space and time. Cichy et al. Nature Neuroscience 2014.
+4. Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). Imagenet classification with deep convolutional neural networks. Advances in neural information processing systems (pp. 1097–1105).
+
+
+
 ## The team.
 
 
