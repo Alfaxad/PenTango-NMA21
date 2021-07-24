@@ -127,6 +127,9 @@ We selected a subset of features to compute multiple linear regression to predic
 ![res7](https://user-images.githubusercontent.com/68440833/126876274-8577fad0-24e2-44da-9463-e329ce8df6c3.png)
 
 
+## Note.
+Apart from the jupyter notebooks, other parts of our work were not included in the repository since they exceeded the maximum limit og Github's file size. However they can be found via link -> https://deepnote.com/project/PenTango-3jLJgAhKSTGUcgRz43qUzw/%2FPenTango%20-%20Cichy.ipynb
+
 ## References.
 
 1. Cichy, R., Khosla, A., Pantazis, D. et al. Comparison of deep neural networks to spatio-temporal cortical dynamics of human visual object recognition reveals hierarchical correspondence. Sci Rep 6, 27755 (2016). https://doi.org/10.1038/srep27755
