@@ -53,8 +53,11 @@ How do humans and other primates perceive daily objects of various features and 
 
 ## Methodology
 
+As mentioned above, we were interested in the question *What other features of images actually contribute to the neural representation of categorization in the human brain? We will do this by investigating whether other attributes may have confounded the prior results by computing representational dissimilarity matrix of other features of these images, such as lower/high-level deep neural network attributes, sentiment and familiarity and use them as predictors of the neural RDMs computed in IT regions (fMRI).*
+In addition, behavioural data was collected from voluntary participants (n = 33) with a survey deployed online by evaluating the sentiment and familiarity of the 92 images in the original study.
+Then, we followed the approach outlined below to answer this question.
 
-
+![approach](https://user-images.githubusercontent.com/68440833/126869892-6089249c-e55e-4940-afd2-6f401ced1426.png)
 
 
 
@@ -83,7 +86,7 @@ How do humans and other primates perceive daily objects of various features and 
 
 
 ![archi](https://user-images.githubusercontent.com/68440833/126869865-42bc7de8-d1b2-47cc-b4d6-a263f3b5b8f2.png)
-![approach](https://user-images.githubusercontent.com/68440833/126869892-6089249c-e55e-4940-afd2-6f401ced1426.png)
+
 ![res1](https://user-images.githubusercontent.com/68440833/126869905-829a45a9-f1aa-4dc7-82a8-68667438ce9a.png)
 ![res2](https://user-images.githubusercontent.com/68440833/126869919-ec2c304e-97ee-416a-be66-063c6f93cf6a.png)
 ![res3](https://user-images.githubusercontent.com/68440833/126869930-dfbc0417-8bb6-4696-ab23-2c01152ca901.png)
