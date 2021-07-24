@@ -8,10 +8,16 @@
 ## About:
 
 This project was developed by **PenTango** team from **Oval Bongos** pod during **Neuromatch Academy 2021: Computational-Neuroscience** summer school.We decided to work with data from Cichy et al. 2014 [1]. The data consist of fMRI responses from early visual cortex (EVC) and inferior temporal (IT) cortex and MEG responses at different timepoints in the form of representational dissimilarity matrices (RDMs) to 92 images. These images belong to different categories as shown in the Figure below.We were interested in investigating the hierarchical structure of processing object categorization in the human brain. More specifically we investigated the correlation between RDMs from Cichy et al.,2014 neuroimaging dataset with other attributes of the images they presented to subjects. 
+
+
 ![intro](https://user-images.githubusercontent.com/68440833/126870166-adb705a2-66bd-4d8e-82f7-fba6cce16184.png)
 
 
+
+
 ![dataset_des](https://user-images.githubusercontent.com/68440833/126869810-2c91cf0f-68d2-4bca-8eb5-0ece28f31a25.png)
+
+
 
 ![prior](https://user-images.githubusercontent.com/68440833/126869797-b97c18d9-f061-43c5-82c1-1efae270b00e.png)
 
