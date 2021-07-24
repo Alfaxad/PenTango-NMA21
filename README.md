@@ -25,21 +25,22 @@ This project was developed by **PenTango** team from **Oval Bongos** pod during 
 
 ## Hypotheses:
 
+After examing the guven data, we formulated hypothesis with a primary question which was **How do other features/attributes of these 92 images correlate with their RDMs in different brain regions(IT(Inferotemporal), V1)? **
 
-**Primary question: how do other features/attributes of these 92 images correlate with their RDMs in different brain regions(IT, V1)? We are interested in three other aspects of the images: **
 
+We  were also  interested in three other aspects of the images as, shown below:
 
 1. Semantics  
-    1. using pre-trained models to automatically label these images (AP, SE, PM)
-    2. word2vec to calucalte semantic similarities of these images (HL,AP, AE)
+    1. using pre-trained models to automatically label these images.
+    2. word2vec to calucalte semantic similarities of these images.
 2. Sentiment 
-    1. new data collection and have subjects rate the sentiment of images: postivie to negative and novelty of the images (HL, SE)
-    2. calculate the sentiment and novelty of these images in R. and export the final results in csv. file (HL)
-    3. compute correlation/run prediction models 
+    1. new data collection and have subjects rate the sentiment of images: postivie to negative and novelty of the images.
+    2. calculate the sentiment and novelty of these images in R. and export the final results in csv file.
+    3. compute correlation/run prediction models.
 3. Visual attributes (HL)
-   1. pixel analysis: edges, orientations, color
-   2. compute a RDM of pixels for each image 
-   3. regresss out the pixel similarities (fit a linear model of multiple RDMS on the target RDM)
+   1. pixel analysis: edges, orientations, color.
+   2. compute a RDM of pixels for each image .
+   3. regresss out the pixel similarities (fit a linear model of multiple RDMS on the target RDM).
                  
                    
                 
