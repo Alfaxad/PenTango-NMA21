@@ -129,6 +129,7 @@ We selected a subset of features to compute multiple linear regression to predic
 
 ## The team
 
+![TA](https://user-images.githubusercontent.com/68440833/126876473-647b1355-043d-489c-85e6-8eaa7a55c285.jpeg)
 
 
 
