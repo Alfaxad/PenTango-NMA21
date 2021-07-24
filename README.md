@@ -116,6 +116,17 @@ We selected a subset of features to compute multiple linear regression to predic
 ![res5](https://user-images.githubusercontent.com/68440833/126869943-21732fe9-55b8-4566-b3b9-d350c8da8456.png)
 
 
+## Discussion and Future Direction.
+
+![res6](https://user-images.githubusercontent.com/68440833/126869948-761e57ec-7239-4211-bd79-7a475eafecb3.png)
+
+
+## Conclusion and Future Direction.
+
+
+
+
+
 ## The team
 <table>
 <tr>
@@ -137,7 +148,6 @@ We selected a subset of features to compute multiple linear regression to predic
 
 ### Minutes document 
 
-![prior](https://user-images.githubusercontent.com/68440833/126869797-b97c18d9-f061-43c5-82c1-1efae270b00e.png)
 
 
 
@@ -147,11 +157,8 @@ We selected a subset of features to compute multiple linear regression to predic
 
 
 
-![res6](https://user-images.githubusercontent.com/68440833/126869948-761e57ec-7239-4211-bd79-7a475eafecb3.png)
 
 
 
 
-
-[Minutes meeting](https://docs.google.com/document/d/1GsBpHjl7nuiU9_HMjJqHEiLHDkE_u1DGq7H11_nFvM4/edit)
 
