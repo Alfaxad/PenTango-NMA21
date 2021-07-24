@@ -25,7 +25,7 @@ This project was developed by **PenTango** team from **Oval Bongos** pod during 
 
 ## Hypotheses:
 
-After examing the guven data, we formulated hypothesis with a primary question which was **How do other features/attributes of these 92 images correlate with their RDMs in different brain regions(IT(Inferotemporal), V1)? **
+After examing the given data, we formulated hypothesis with a primary question which was **How do other features/attributes of these 92 images correlate with their RDMs in different brain regions(IT(Inferotemporal), V1)? **
 
 
 We  were also  interested in three other aspects of the images as, shown below:
