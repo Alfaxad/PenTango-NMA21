@@ -41,30 +41,14 @@ We  were also  interested in three other aspects of the images as, shown below:
    1. pixel analysis: edges, orientations, color.
    2. compute a RDM of pixels for each image .
    3. regresss out the pixel similarities (fit a linear model of multiple RDMS on the target RDM).
-                 
-                   
                 
-**Decision point**
-
-1. determine the scale for sentiment: gradient, what would be the numeric value assigned to each one? (VALENCE/AROUSAL); do we calcualte the average score, or the median, or sum? do we have each indivdual rate all 92 or a subset of it?  using 7 point or 5 point likert scale? 
-2. 
-
-## Goals to hit
-Monday (July 12th) 
-1. HL fix the bugs in the stimuli and look into literature how to calculate 
-2. Analysis plans (: 
-    1. how is the sentiment data processing/analysis (HL,SE)
-4. PM & AP look into featrue extraction and identify featues/attributes that would be meaningful to implenet and calculate 
-5. 
-
- 
  
  
  
 ## Abstract:
 
 
-How do humans and other primates perceive daily objects of various features and categorize these seemingly intuitive and effortless mental representations? Prior literature has mainly focused on investigating this question by applying supervised machine learning classifiers to neural responses recorded from tasks in which humans (and monkeys) were asked to view images of isolated objects (Kriegeskorte et al., 2008; Kiani et al., 2007). These classifiers have demonstrated that neurons in the inferior temporal (IT) cortex distinguish objects through a system of hierarchical categories that is consistent with the experimenter's predefined structure (superordinate, ordinate, subordinate). However, it remains elusive whether the spatio-temporal patterns of BOLD activations are entirely a reflection of these hierarchical categories or if they can also be accounted for by other attributes of these images such as low level image features, sentiment, and familiarity. Therefore, we hope to investigate whether other attributes may have confounded the prior results by computing RDMs of other features of these images, such as lower-level visual attributes, sentiment and familiarity and use them as predictors of the neural RDMs computed in IT regions (fMRI). Behavioural data was collected from voluntary participants (n = 33) with a survey deployed online by evaluating the sentiment and familiarity of the 92 images in the original study. Low level features of the images were extracted using a pre-trained convolutional network model (AlexNet) to compute activation maps for each image. Simple regression models were built in conjunction with a variance partitioning analysis to parsimoniously examine the contribution of new attributes of interest to the neural responses in the IT region, and test whether the initial hierarchical structure of categories remains true after regressing out the influence of these possible confounds.
+How do humans and other primates perceive daily objects of various features and categorize these seemingly intuitive and effortless mental representations? Prior literature has mainly focused on investigating this question by applying supervised machine learning classifiers to neural responses recorded from tasks in which humans (and monkeys) were asked to view images of isolated objects (Kriegeskorte et al., 2008; Kiani et al., 2007). These classifiers have demonstrated that neurons in the inferior temporal (IT) cortex distinguish objects through a system of hierarchical categories that is consistent with the experimenter's predefined structure (superordinate, ordinate, subordinate). However, it remains elusive whether the spatio-temporal patterns of BOLD activations are entirely a reflection of these hierarchical categories or if they can also be accounted for by other attributes of these images such as low level image features, sentiment, and familiarity. Therefore, we investigated whether other attributes may have confounded the prior results by computing RDMs of other features of these images, such as lower-level visual attributes, sentiment and familiarity and use them as predictors of the neural RDMs computed in IT regions (fMRI). Behavioural data was collected from voluntary participants (n = 33) with a survey deployed online by evaluating the sentiment and familiarity of the 92 images in the original study. Low level features of the images were extracted using a pre-trained convolutional network model (AlexNet) to compute activation maps for each image. Simple regression models were built in conjunction with a variance partitioning analysis to parsimoniously examine the contribution of new attributes of interest to the neural responses in the IT region, and test whether the initial hierarchical structure of categories remains true after regressing out the influence of these possible confounds.
 
 
 ## Methodology
