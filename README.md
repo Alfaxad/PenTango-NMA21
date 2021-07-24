@@ -89,6 +89,19 @@ In this heatmap, we find such a delineation between categories of images, sugges
 
 ![res2](https://user-images.githubusercontent.com/68440833/126869919-ec2c304e-97ee-416a-be66-063c6f93cf6a.png)
 
+
+4. **Results - Correlation.**
+
+Then we computed the correlation matrix for all the RDMs of interest, including the RDM of neural representation in IT, EVC regions. And here is what we found out:
+
+   1. Sentiment and familiarity RDMs are not in strong correlation with neural representation RDMs
+   2.  However low to mid level RDMs from CNN layers do correlate well with the fMRI RDMs  
+   3.  Low level layer 2 correlates strongly for both IT and EVC regions.
+   4.  In addition, we also observe a medium-size correlation between RDM_layer 8 and familiarity.
+ 
+ 
+![res3](https://user-images.githubusercontent.com/68440833/126869930-dfbc0417-8bb6-4696-ab23-2c01152ca901.png)
+
 ## The team
 <table>
 <tr>
@@ -117,7 +130,7 @@ In this heatmap, we find such a delineation between categories of images, sugges
 
 
 
-![res3](https://user-images.githubusercontent.com/68440833/126869930-dfbc0417-8bb6-4696-ab23-2c01152ca901.png)
+
 ![res4](https://user-images.githubusercontent.com/68440833/126869936-e76175f8-2c0d-421a-a60e-05d7ccc7e7b7.png)
 ![res5](https://user-images.githubusercontent.com/68440833/126869943-21732fe9-55b8-4566-b3b9-d350c8da8456.png)
 ![res6](https://user-images.githubusercontent.com/68440833/126869948-761e57ec-7239-4211-bd79-7a475eafecb3.png)
