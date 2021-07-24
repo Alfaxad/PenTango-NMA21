@@ -128,6 +128,22 @@ We selected a subset of features to compute multiple linear regression to predic
 
 
 ## The team
+
+
+
+
+![penteam](https://user-images.githubusercontent.com/68440833/126876337-1e34e6f1-80be-4ca9-b427-6a8829783583.png)
+
+
+
+
+
+
+
+
+
+
+
 <table>
 <tr>
     <td align="center"><a href="https://github.com/anproulx"><img src="https://github.com/anproulx.png" width="100px;" alt=""/><br /><sub><b>Andréanne Proulx</b></sub></a><br /><a href="https://github.com/physiopy/phys2bids/commits?author=viacovella" title="Code">💻</a></td>
