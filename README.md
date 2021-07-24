@@ -61,6 +61,20 @@ Then, we followed the approach outlined below to answer this question.
 
 
 
+## Results.
+
+We obtained results for visual-attributes, Sentiment-analysis, correlation & Multiple linear regression. The sesults are as outlined below:
+
+1. Results - Visual attributes.
+Here we present the RDMs computed for each feature of interest: 
+   1. This slide shows the RDMs for each convolutional layers computed from the output of AlexNet
+   2. The first layer represent lower level attributes such as edges, color and orientation, whereas later layers represent more complex features. 
+
+
+![res1](https://user-images.githubusercontent.com/68440833/126869905-829a45a9-f1aa-4dc7-82a8-68667438ce9a.png)
+
+
+
 ## The team
 <table>
 <tr>
@@ -87,7 +101,7 @@ Then, we followed the approach outlined below to answer this question.
 
 ![archi](https://user-images.githubusercontent.com/68440833/126869865-42bc7de8-d1b2-47cc-b4d6-a263f3b5b8f2.png)
 
-![res1](https://user-images.githubusercontent.com/68440833/126869905-829a45a9-f1aa-4dc7-82a8-68667438ce9a.png)
+
 ![res2](https://user-images.githubusercontent.com/68440833/126869919-ec2c304e-97ee-416a-be66-063c6f93cf6a.png)
 ![res3](https://user-images.githubusercontent.com/68440833/126869930-dfbc0417-8bb6-4696-ab23-2c01152ca901.png)
 ![res4](https://user-images.githubusercontent.com/68440833/126869936-e76175f8-2c0d-421a-a60e-05d7ccc7e7b7.png)
