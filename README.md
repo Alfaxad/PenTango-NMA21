@@ -108,6 +108,14 @@ Below there is different figure that highlights the correlation of feature RDMs 
 ![res4](https://user-images.githubusercontent.com/68440833/126869936-e76175f8-2c0d-421a-a60e-05d7ccc7e7b7.png)
 
 
+
+5. **Results - Multiple linear Regression.**
+
+We selected a subset of features to compute multiple linear regression to predict the fMRI RDMs in each brain region and found that our features can explain up to more than 50% of the variance. We also ran a variance partitioning analysis to show the unique contribution of each feature and the variance they commonly shared to explain.
+
+![res5](https://user-images.githubusercontent.com/68440833/126869943-21732fe9-55b8-4566-b3b9-d350c8da8456.png)
+
+
 ## The team
 <table>
 <tr>
@@ -138,7 +146,7 @@ Below there is different figure that highlights the correlation of feature RDMs 
 
 
 
-![res5](https://user-images.githubusercontent.com/68440833/126869943-21732fe9-55b8-4566-b3b9-d350c8da8456.png)
+
 ![res6](https://user-images.githubusercontent.com/68440833/126869948-761e57ec-7239-4211-bd79-7a475eafecb3.png)
 
 
