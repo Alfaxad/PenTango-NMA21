@@ -128,7 +128,7 @@ We selected a subset of features to compute multiple linear regression to predic
 
 
 ## Note.
-Apart from the jupyter notebooks, other parts of our work were not included in the repository since they exceeded the maximum limit og Github's file size. However they can be found via link -> https://deepnote.com/project/PenTango-3jLJgAhKSTGUcgRz43qUzw/%2FPenTango%20-%20Cichy.ipynb
+Apart from the jupyter notebooks, other parts of our work were not included in the repository since they exceeded the maximum limit of Github's file size. However they can be found via link -> https://deepnote.com/project/PenTango-3jLJgAhKSTGUcgRz43qUzw/%2FPenTango%20-%20Cichy.ipynb
 
 ## References.
 
@@ -159,7 +159,6 @@ We could have never accomplish this, without the amazing dedication and support 
 
 
 
-**Oval bongos**(below).
 
 ![Oval_Bongos](https://user-images.githubusercontent.com/68440833/126877019-bab06a98-4e44-4d1a-9268-34c78f201dbc.png)
 **Oval bongos**(above).
