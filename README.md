@@ -143,8 +143,7 @@ We could have never accomplish this, without the amazing dedication and support 
 
 **Oval bongos**(below).
 
-
-
+![Oval_Bongos](https://user-images.githubusercontent.com/68440833/126877019-bab06a98-4e44-4d1a-9268-34c78f201dbc.png)
 
 
 
