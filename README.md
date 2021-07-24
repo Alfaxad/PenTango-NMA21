@@ -127,13 +127,21 @@ We selected a subset of features to compute multiple linear regression to predic
 ![res7](https://user-images.githubusercontent.com/68440833/126876274-8577fad0-24e2-44da-9463-e329ce8df6c3.png)
 
 
-## The team
+## The team.
+
+
 
 ![TA](https://user-images.githubusercontent.com/68440833/126876473-647b1355-043d-489c-85e6-8eaa7a55c285.jpeg)
+
+We could have never accomplish this, without the amazing dedication and support from our beloved Pod TA, **Akanksha Gupta(picture above)**, who is *RA at Institut de Neurosciences des Systèmes (INS)*, our beloved project TA **Nicholas Blauch(picture below)**, who is a *Ph.D. candidate in Neural Computation Carnegie Mellon*, our beloved mentor **Vy Vo(picture below)**, who is a *AI/ML Research Scientist at Intel Labs*, and last but not the least our **Oval Bongos** pod members(pictures below) and the team as a whole. Special thanks to **Neuromatch Academy** for giving us this special opportunity and moments that lasts a lifetime, it was a really wonderful and amazing experience.
 
 
 
 ![penteam](https://user-images.githubusercontent.com/68440833/126876337-1e34e6f1-80be-4ca9-b427-6a8829783583.png)
+
+
+
+**Oval bongos**(below).
 
 
 
