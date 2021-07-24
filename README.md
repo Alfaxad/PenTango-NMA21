@@ -75,5 +75,21 @@ How do humans and other primates perceive daily objects of various features and 
 
 ### Minutes document 
 
+![prior](https://user-images.githubusercontent.com/68440833/126869797-b97c18d9-f061-43c5-82c1-1efae270b00e.png)
+![dataset_des](https://user-images.githubusercontent.com/68440833/126869810-2c91cf0f-68d2-4bca-8eb5-0ece28f31a25.png)
+![project_title](https://user-images.githubusercontent.com/68440833/126869814-b59e956a-741b-488b-8fec-61fda12516d9.png)
+![archi](https://user-images.githubusercontent.com/68440833/126869865-42bc7de8-d1b2-47cc-b4d6-a263f3b5b8f2.png)
+![approach](https://user-images.githubusercontent.com/68440833/126869892-6089249c-e55e-4940-afd2-6f401ced1426.png)
+![res1](https://user-images.githubusercontent.com/68440833/126869905-829a45a9-f1aa-4dc7-82a8-68667438ce9a.png)
+![res2](https://user-images.githubusercontent.com/68440833/126869919-ec2c304e-97ee-416a-be66-063c6f93cf6a.png)
+![res3](https://user-images.githubusercontent.com/68440833/126869930-dfbc0417-8bb6-4696-ab23-2c01152ca901.png)
+![res4](https://user-images.githubusercontent.com/68440833/126869936-e76175f8-2c0d-421a-a60e-05d7ccc7e7b7.png)
+![res5](https://user-images.githubusercontent.com/68440833/126869943-21732fe9-55b8-4566-b3b9-d350c8da8456.png)
+![res6](https://user-images.githubusercontent.com/68440833/126869948-761e57ec-7239-4211-bd79-7a475eafecb3.png)
+
+
+
+
+
 [Minutes meeting](https://docs.google.com/document/d/1GsBpHjl7nuiU9_HMjJqHEiLHDkE_u1DGq7H11_nFvM4/edit)
 
