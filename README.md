@@ -102,6 +102,12 @@ Then we computed the correlation matrix for all the RDMs of interest, including 
  
 ![res3](https://user-images.githubusercontent.com/68440833/126869930-dfbc0417-8bb6-4696-ab23-2c01152ca901.png)
 
+Below there is different figure that highlights the correlation of feature RDMs with neural representation in regions of interest. 
+
+
+![res4](https://user-images.githubusercontent.com/68440833/126869936-e76175f8-2c0d-421a-a60e-05d7ccc7e7b7.png)
+
+
 ## The team
 <table>
 <tr>
@@ -131,7 +137,7 @@ Then we computed the correlation matrix for all the RDMs of interest, including 
 
 
 
-![res4](https://user-images.githubusercontent.com/68440833/126869936-e76175f8-2c0d-421a-a60e-05d7ccc7e7b7.png)
+
 ![res5](https://user-images.githubusercontent.com/68440833/126869943-21732fe9-55b8-4566-b3b9-d350c8da8456.png)
 ![res6](https://user-images.githubusercontent.com/68440833/126869948-761e57ec-7239-4211-bd79-7a475eafecb3.png)
 
