@@ -153,6 +153,14 @@ We could have never accomplish this, without the amazing dedication and support 
 
 
 
+
+
+
+
+
+
+
+
 <table>
 <tr>
     <td align="center"><a href="https://github.com/anproulx"><img src="https://github.com/anproulx.png" width="100px;" alt=""/><br /><sub><b>Andréanne Proulx</b></sub></a><br /><a href="https://github.com/physiopy/phys2bids/commits?author=viacovella" title="Code">💻</a></td>
